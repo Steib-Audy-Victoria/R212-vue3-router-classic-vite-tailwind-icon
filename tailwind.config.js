@@ -7,6 +7,7 @@ module.exports = {
     extend: {
       "colors": {
         // Ici vos couleurs exportées de Figma
+        "indigo-25": "#f6f8ff"
       },
       "fontFamily": {
         // Ici vos familles de polices exportées de Figma
